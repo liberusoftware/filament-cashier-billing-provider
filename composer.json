@@ -1,5 +1,5 @@
 {
-    "name": "maartenpaauw/filament-cashier-billing-provider",
+    "name": "liberusoftware/filament-cashier-billing-provider",
     "description": "Filament billing provider for Laravel Cashier",
     "keywords": [
         "maartenpaauw",
